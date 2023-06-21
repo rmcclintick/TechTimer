@@ -1,0 +1,34 @@
+* {
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+
+.header{
+    text-align: center;
+}
+
+.card-area {
+    padding: 4vh 4vw 0vh;
+}
+
+.new-timer-card {
+    padding: 4vh 4vw 0vh;
+    text-align: center;
+}
+
+.timer-area {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.timer-button {
+    margin: 0px 4px;
+    padding: 0px 4px;
+}
+
+.card-info {
+    display: flex;
+    flex-direction: column;
+}
